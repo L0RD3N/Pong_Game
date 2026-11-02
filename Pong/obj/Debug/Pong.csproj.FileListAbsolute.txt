@@ -1,0 +1,10 @@
+C:\Users\lucav\Documents\Programming Projects\C#\Pong\Pong\bin\Debug\Pong.exe.config
+C:\Users\lucav\Documents\Programming Projects\C#\Pong\Pong\bin\Debug\Pong.exe
+C:\Users\lucav\Documents\Programming Projects\C#\Pong\Pong\bin\Debug\Pong.pdb
+C:\Users\lucav\Documents\Programming Projects\C#\Pong\Pong\obj\Debug\Pong.csproj.AssemblyReference.cache
+C:\Users\lucav\Documents\Programming Projects\C#\Pong\Pong\obj\Debug\Pong.MainForm.resources
+C:\Users\lucav\Documents\Programming Projects\C#\Pong\Pong\obj\Debug\Pong.Properties.Resources.resources
+C:\Users\lucav\Documents\Programming Projects\C#\Pong\Pong\obj\Debug\Pong.csproj.GenerateResource.cache
+C:\Users\lucav\Documents\Programming Projects\C#\Pong\Pong\obj\Debug\Pong.csproj.CoreCompileInputs.cache
+C:\Users\lucav\Documents\Programming Projects\C#\Pong\Pong\obj\Debug\Pong.exe
+C:\Users\lucav\Documents\Programming Projects\C#\Pong\Pong\obj\Debug\Pong.pdb
